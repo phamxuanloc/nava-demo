@@ -13,8 +13,8 @@
 		"yiisoft/yii2-bootstrap" : "*"
 	},
 	"autoload" : {
-		"prs-4" : {
-			"phamxuanloc\\navademo\\" : ""
+		"psr-4" : {
+			"phamxuanloc\\demo\\" : ""
 		}
 	}
 }
